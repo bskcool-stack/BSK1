@@ -25,13 +25,14 @@ wheels/
 
 # Data files
 *.csv
-*.parquet
 data/raw/*
-data/processed/*
 
 # Keep directory structure
 !data/raw/.gitkeep
 !data/processed/.gitkeep
+
+# processed parquet 파일은 추적 (배포용)
+!data/processed/*.parquet
 
 # IDE
 .vscode/
