@@ -2,6 +2,10 @@
 
 이것은 예시용 README 파일입니다.
 
+## 문서
+
+- Streamlit 대시보드 구현 계획: `docs/streamlit-dashboard-plan.md`
+
 ## 소개
 
 이 프로젝트는 샘플 프로젝트입니다.
